@@ -24,6 +24,9 @@ A modern Android application built with Jetpack Compose that allows users to exp
 - **Coroutines** - Asynchronous programming
 - **Material 3** - UI components and theming
 
+##Screenshots
+![8a1f2cce-2767-44aa-afea-fd2c62368d34](https://github.com/user-attachments/assets/08518ca4-1789-45c7-a548-b4509c86b47e)
+
 ## Project Structure
 
 ```
