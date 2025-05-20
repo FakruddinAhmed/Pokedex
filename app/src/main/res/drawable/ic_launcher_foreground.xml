@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-48,0a48,48 0,1 1,96 0a48,48 0,1 1,-96 0" />
+    
+    <!-- Red half -->
+    <path
+        android:fillColor="#E3350D"
+        android:pathData="M54,6A48,48 0,0 1,102 54L54,54A48,48 0,0 1,6 54A48,48 0,0 1,54 6z" />
+    
+    <!-- Center circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0" />
+    
+    <!-- Inner circle -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M54,54m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+    
+    <!-- Button highlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,48m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+</vector>
