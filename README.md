@@ -26,10 +26,10 @@ A modern Android application built with Jetpack Compose that allows users to exp
 
 ##Screenshots
 
-![513ea126-fbeb-44b3-94c7-8bfce9910925](https://github.com/user-attachments/assets/c719b5a3-6e41-4f7a-8416-8d73bfb10eb8)
-![e9![8a1f2cce-2767-44aa-afea-fd2c62368d34](https://github.com/user-attachments/assets/a3957656-4551-4de7-821f-2df5908e1baf)
-6f46b2-8ea6-49a6-86f6-ec936501c89c](https://github.com/user-attachments/assets/1bcf164c-4b20-4718-afdd-5afd272f4f7a)
-![7b7f01a6-8f6c-41de-901c-cf08018c883b](https://github.com/user-attachments/assets/599f2a90-126b-4c02-8430-3ce995d4e1b9)
+<img src="https://github.com/user-attachments/assets/c719b5a3-6e41-4f7a-8416-8d73bfb10eb8" width="300" alt="Pokedex Screenshot 1">
+<img src="https://github.com/user-attachments/assets/a3957656-4551-4de7-821f-2df5908e1baf" width="300" alt="Pokedex Screenshot 2">
+<img src="https://github.com/user-attachments/assets/1bcf164c-4b20-4718-afdd-5afd272f4f7a" width="300" alt="Pokedex Screenshot 3">
+<img src="https://github.com/user-attachments/assets/599f2a90-126b-4c02-8430-3ce995d4e1b9" width="300" alt="Pokedex Screenshot 4">
 
 ## Project Structure
 
